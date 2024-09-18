@@ -1,5 +1,7 @@
 # Video Game Portal
 
+[<img src="./screenshots/desktop-view.png" alt="Desktop View" width="100%" />](https://ajay-dhangar.github.io/video-game-portal/)
+
 ## Description
 
 This is a simple video game portal made with HTML and CSS only. It is a responsive website that can be viewed on any device. The website is divided into three sections: the header, the main content, and the footer. The header contains the website's title and navigation links. The main content contains a list of video games with their respective images, titles, and descriptions. The footer contains the website's copyright information.
@@ -52,12 +54,12 @@ git clone https://github.com/ajay-dhangar/video-game-portal.git
 cd video-game-portal
 ```
 
-3. Open the `index.html` file in your browser to view the website.
+3. Open the `index.html` file to view the website in your browser.
 4. You can also view the website by clicking [here](https://ajay-dhangar.github.io/video-game-portal).
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the MIT license. For more details, see the [LICENSE](./LICENSE) file.
 
 ## Author
 
